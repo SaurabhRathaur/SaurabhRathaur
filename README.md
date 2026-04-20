@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Saurabh 👋
 
-<!--
-**SaurabhRathaur/SaurabhRathaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Developer | Python | LangGraph | RAG Pipelines
 
-Here are some ideas to get you started:
+I build production-ready AI applications — agents, RAG pipelines, and LLM-powered tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🤖 AI Customer Support Agent
+Autonomous agent built with LangGraph + Claude AI
+- Web search with Tavily
+- Conversation memory
+- Smart routing — searches only when needed
+- **Live Demo:** [agentic-customer-support-mgxfyvy72cmt28lx4bowju.streamlit.app](https://agentic-customer-support-mgxfyvy72cmt28lx4bowju.streamlit.app)
+- **Code:** [github.com/SaurabhRathaur/Agentic-Customer-Support](https://github.com/SaurabhRathaur/Agentic-Customer-Support)
+
+### 📄 Chat with PDF (RAG Pipeline)
+Production-grade RAG pipeline from scratch
+- Hybrid BM25 + Vector search
+- Cross-encoder reranking
+- Custom evaluation script
+- **Code:** [github.com/SaurabhRathaur/chat-with-pdf](https://github.com/SaurabhRathaur/chat-with-pdf)
+
+## 🛠️ Tech Stack
+Python • LangGraph • LangChain • Claude AI • ChromaDB • Streamlit • Flask
+
+## 📫 Contact
+Open to freelance AI projects — feel free to reach out!
